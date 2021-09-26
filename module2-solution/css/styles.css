@@ -31,7 +31,7 @@ h2{
     text-align: center;
     font-weight: 600;
     padding: 1px 5px;
-    background: palevioletred;
+    background: lightpink;
     border: 3px solid #000000;
     border-top: 0;
     border-right: 0;
@@ -44,7 +44,7 @@ h2{
     font: 20;
     color: white;
     background: red;
-    border: 5px solid #000000;
+    border: 3px solid #000000;
     border-top: 0;
     border-right: 0;
     margin-left: 190px;
@@ -55,7 +55,7 @@ h2{
     padding: 1px 5px;
     font: 20;
     background: rgb(238, 130, 238);
-    border: 5px solid #000000;
+    border: 3px solid #000000;
     border-top: 0;
     border-right: 0;
     margin-left: 190px;
