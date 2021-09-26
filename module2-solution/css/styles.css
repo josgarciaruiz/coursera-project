@@ -55,7 +55,7 @@ h2{
     padding: 1px 5px;
     font: 20;
     background: rgb(219, 240, 104);
-    border: 5px #000000;
+    border: 5px solid #000000;
     border-top: 0;
     border-right: 0;
     margin-left: 190px;
