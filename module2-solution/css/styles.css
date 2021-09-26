@@ -1,5 +1,4 @@
 /********** Base styles **********/
-
 *{
     margin: 0;
     padding: 0;
@@ -18,12 +17,14 @@
     padding-top: 100px;
 }
 
-p{
-    text-align: justify;
-    font-size: 12px;
-    font-weight: 250;
-    line-height: 25px;
-    padding: 10px;
+/* Simple Responsive Framework. */
+.row{
+  width: 80vw; 
+  height: auto; 
+  margin: auto;
+  display: flex;  
+  justify-content: space-around;
+  flex-wrap: wrap;     
 }
 
 h2{
@@ -60,6 +61,14 @@ h2{
     margin-left: 190px;
 }
 
+p{
+    text-align: justify;
+    font-size: 12px;
+    font-weight: 250;
+    line-height: 25px;
+    padding: 10px;
+}
+
 .menu-chicken{
   position: relative;
   background:skyblue;
@@ -80,18 +89,6 @@ h2{
   flex:1 1 200px;
   margin: 20px;
 }
-
-/* Simple Responsive Framework. */
-.row{
-  width: 80vw; 
-  height: auto; 
-  margin: auto;
-  display: flex;  
-  justify-content: space-around;
-  flex-wrap: wrap;     
-}
-
-
 
 /********** Large devices only **********/
 @media(min-width:991px){
