@@ -1,5 +1,16 @@
 /********** Base styles **********/
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu{
+    width: auto; 
+    height:auto;
+}
+
 .menu-chicken{
   position: relative;
   background:gray;
@@ -22,9 +33,16 @@
 }
 
 /* Simple Responsive Framework. */
-.row {
-  width: 100%;
+.row{
+  width: 80vw; 
+  height: auto; 
+  margin: auto;
+  display: flex;  
+  justify-content: space-around;
+  flex-wrap: wrap;     
 }
+
+
 
 /********** Large devices only **********/
 @media(min-width:991px){
