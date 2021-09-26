@@ -55,7 +55,7 @@ h2{
     padding: 1px 5px;
     font: 20;
     background: rgb(219, 240, 104);
-    border: 5px solid #000000;
+    border: 5px #000000;
     border-top: 0;
     border-right: 0;
     margin-left: 190px;
@@ -63,9 +63,9 @@ h2{
 
 p{
     text-align: justify;
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 250;
-    line-height: 25px;
+    line-height: 35px;
     padding: 10px;
 }
 
