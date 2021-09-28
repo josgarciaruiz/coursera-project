@@ -3,15 +3,20 @@
 	padding: 0;
 	
 }
+
 .navbar{
-
-border: none;
-background-color: black;
-
+	border: none;
+	background-color: black;
 }
 body{
 	color: white;
 }
+
+p{
+	color: black;
+	font-weight: bold;
+}
+
 .glyphicon{
 	font-size: 30px;
 	color:whitesmoke; 
@@ -20,12 +25,13 @@ body{
 .center{
 	width: 90%;
 	background-color: grey;
-
 }
+
 .container
 {
 	background-color: grey;
 }
+
 .text-center{
 	font-size: 30px;
 }
@@ -33,10 +39,11 @@ body{
 h2{
 	text-align: center;
 }
-#myNavbar ul li a {
+
+#josNavbar ul li a {
 	color: whitesmoke;
 }
+
 .navbar-brand{
-font-size: 30px;	
-background: transparent;
+	font-size: 30px;	
 }
