@@ -36,7 +36,7 @@ WARNING!!! WARNING!!!
 
 (function () {
 
-var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
+var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim", "jos"];
 
 // STEP 10:
 // Loop over the names array and say either 'Hello' or "Good Bye"
